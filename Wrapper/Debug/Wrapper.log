@@ -1,0 +1,39 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  Wrapper.cpp
+  Event.cpp
+d:\experiments\cppwrapper\core\wrapper\wrapper\../../CoreCPP/Event.h(11): warning C4251: 'Core::Event::subscribers': class 'std::vector<sub,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Core::Event'
+          with
+          [
+              _Ty=sub
+          ]
+  d:\experiments\cppwrapper\core\wrapper\wrapper\../../CoreCPP/Event.h(11): note: see declaration of 'std::vector<sub,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sub
+          ]
+  EventsRepository.cpp
+d:\experiments\cppwrapper\core\corecpp\Event.h(11): warning C4251: 'Core::Event::subscribers': class 'std::vector<sub,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Core::Event'
+          with
+          [
+              _Ty=sub
+          ]
+  d:\experiments\cppwrapper\core\corecpp\Event.h(11): note: see declaration of 'std::vector<sub,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sub
+          ]
+d:\experiments\cppwrapper\core\wrapper\wrapper\../../CoreCPP/EventsRepository.h(9): warning C4251: 'Core::EventsRepository::events': class 'std::vector<Core::Event *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Core::EventsRepository'
+          with
+          [
+              _Ty=Core::Event *
+          ]
+  d:\experiments\cppwrapper\core\wrapper\wrapper\../../CoreCPP/EventsRepository.h(9): note: see declaration of 'std::vector<Core::Event *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Core::Event *
+          ]
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+     Creating library D:\Experiments\CPPWrapper\Core\Debug\Wrapper.lib and object D:\Experiments\CPPWrapper\Core\Debug\Wrapper.exp
+  Wrapper.vcxproj -> D:\Experiments\CPPWrapper\Core\Debug\Wrapper.dll

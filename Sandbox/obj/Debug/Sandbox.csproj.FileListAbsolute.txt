@@ -1,0 +1,12 @@
+D:\Experiments\CPPWrapper\Core\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
+D:\Experiments\CPPWrapper\Core\Sandbox\obj\Debug\Sandbox.csprojResolveAssemblyReference.cache
+D:\Experiments\CPPWrapper\Core\Sandbox\bin\Debug\Sandbox.exe.config
+D:\Experiments\CPPWrapper\Core\Sandbox\bin\Debug\Sandbox.exe
+D:\Experiments\CPPWrapper\Core\Sandbox\bin\Debug\Sandbox.pdb
+D:\Experiments\CPPWrapper\Core\Sandbox\bin\Debug\Wrapper.dll
+D:\Experiments\CPPWrapper\Core\Sandbox\bin\Debug\Wrapper.pdb
+D:\Experiments\CPPWrapper\Core\Sandbox\obj\Debug\Sandbox.exe
+D:\Experiments\CPPWrapper\Core\Sandbox\obj\Debug\Sandbox.pdb
+D:\Experiments\CPPWrapper\Core\Debug\Sandbox.exe.config
+D:\Experiments\CPPWrapper\Core\Debug\Sandbox.exe
+D:\Experiments\CPPWrapper\Core\Debug\Sandbox.pdb

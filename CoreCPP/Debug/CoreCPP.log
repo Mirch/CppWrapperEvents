@@ -1,0 +1,36 @@
+﻿  EventsRepository.cpp
+d:\experiments\cppwrapper\core\corecpp\event.h(11): warning C4251: 'Core::Event::subscribers': class 'std::vector<sub,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Core::Event'
+          with
+          [
+              _Ty=sub
+          ]
+  d:\experiments\cppwrapper\core\corecpp\event.h(11): note: see declaration of 'std::vector<sub,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sub
+          ]
+d:\experiments\cppwrapper\core\corecpp\eventsrepository.h(9): warning C4251: 'Core::EventsRepository::events': class 'std::vector<Core::Event *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Core::EventsRepository'
+          with
+          [
+              _Ty=Core::Event *
+          ]
+  d:\experiments\cppwrapper\core\corecpp\eventsrepository.h(9): note: see declaration of 'std::vector<Core::Event *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Core::Event *
+          ]
+  Event.cpp
+d:\experiments\cppwrapper\core\corecpp\event.h(11): warning C4251: 'Core::Event::subscribers': class 'std::vector<sub,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'Core::Event'
+          with
+          [
+              _Ty=sub
+          ]
+  d:\experiments\cppwrapper\core\corecpp\event.h(11): note: see declaration of 'std::vector<sub,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=sub
+          ]
+d:\experiments\cppwrapper\core\corecpp\event.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+     Creating library D:\Experiments\CPPWrapper\Core\Debug\CoreCPP.lib and object D:\Experiments\CPPWrapper\Core\Debug\CoreCPP.exp
+  CoreCPP.vcxproj -> D:\Experiments\CPPWrapper\Core\Debug\CoreCPP.dll
